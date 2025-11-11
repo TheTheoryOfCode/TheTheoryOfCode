@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on next generation, task specific in-memory database and creating frameworks that can be used as a Meta Programming framework for multiple languages.
 - 🌱 I’m currently using and exploring the real benefits of AI, which I'm sure is there, but overshadowed by all the hype surrounding it
 - 👯 I’m looking for product development related conslting, coding & training (enablement) opportunities. I also providing consulting and enablement on Lean Product Management areas including but not limited to Product Canvas, Discovery and OKR. 
-- 🤔 Open for being a tech co-founder, reach out to me
-- 💬 Ask me anything about software product development
+- 🤔 I am open to the opportunity of becoming a tech co-founder; feel free to reach out to me if frequncy is matching.
+- 💬 Ask me anything about lean software product development
 - 📫 How to reach me: shoot and email to daksh@CodeSportsAi.com / LinkedIn : http://linkedin.com/in/idaksh/
 - ⚡ Fun fact: I'm a content creator | Tech Vlogs on Youtube: http://youtube.com/@TheTheoryOfCode | Blogs on Medium : http://medium.com/@TheTheoryOfCode
 
