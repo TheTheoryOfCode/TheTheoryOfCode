@@ -14,7 +14,6 @@
 - 📫 How to reach me: shoot and email to daksh@CodeSportsAi.com / LinkedIn : http://linkedin.com/in/idaksh/
 - ⚡ Fun fact: I'm a content creator | Tech Vlogs on Youtube: http://youtube.com/@TheTheoryOfCode | Blogs on Medium : http://medium.com/@TheTheoryOfCode
 
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
