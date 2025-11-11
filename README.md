@@ -6,9 +6,9 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY0c3NyaXoxdTg4Z3J6YmhzdmRlaHk2MzJ1dnV6ZTRrN3N5eWd2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif"  />
 </div>
 
-- 🔭 I’m currently working creating next generation, task specific in-memory database and creating frameworks that can be used as Meta Programs.
-- 🌱 I’m currently exploring the real benefits of AI, which I'm sure is there, but is away from all the hypes
-- 👯 I’m looking for product development related conslting, coding & training (enablement) opportunities
+- 🔭 I’m currently working on next generation, task specific in-memory database and creating frameworks that can be used as a Meta Programming framework for multiple languages.
+- 🌱 I’m currently using and exploring the real benefits of AI, which I'm sure is there, but overshadowed by all the hype surrounding it
+- 👯 I’m looking for product development related conslting, coding & training (enablement) opportunities. I also providing consulting and enablement on Lean Product Management areas including but not limited to Product Canvas, Discovery and OKR. 
 - 🤔 Open for being a tech co-founder, reach out to me
 - 💬 Ask me anything about software product development
 - 📫 How to reach me: shoot and email to daksh@CodeSportsAi.com / LinkedIn : http://linkedin.com/in/idaksh/
