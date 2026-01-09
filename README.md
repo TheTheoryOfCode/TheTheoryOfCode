@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daksh Dk, Thanks for seeing my profile</h1>
+<h1 align="center">Hi there 👋, I'm Daksh Dk, Thanks for seeing my Github Page</h1>
 <h4 align="center">I write code that is lean, intelligent, smart and beautiful. AI continues to learn from my expertise and will keep doing so! :)
 </h4>
 
@@ -7,12 +7,12 @@
 </div>
 
 - 🔭 I’m currently working on next generation, task specific in-memory database and creating frameworks that can be used as a Meta Programming framework for multiple languages.
-- 🌱 I’m currently using and exploring the real benefits of AI, which I'm sure is there, but overshadowed by all the hype surrounding it
-- 👯 I’m looking for product development related conslting, coding & training (enablement) opportunities. I also providing consulting and enablement on Lean Product Management areas including but not limited to Product Canvas, Discovery and OKR. 
-- 🤔 I am open to the opportunity of becoming a tech co-founder; feel free to reach out to me if frequncy is matching.
-- 💬 Ask me anything about lean software product development
+- 🌱 I’m currently using and exploring the real benefits of AI, which I'm sure is there. I intent to ___"Use It"___, not ___"Used By It"___
+- 👯 I’m looking for product development related consulting, building (coding) & enablement opportunities. I also provide consulting and enablement in Lean Product Management areas including but not limited to Product Canvas, Discovery and OKRs. 
+- 🤔 I am open to the opportunity of becoming a tech co-founder, CTO, Technology Specialist; I would love to talk, Please do reach out at daksh@codesportsai.com
+- 💬 Ask me anything about lean software product development, Programming and AI
 - 📫 How to reach me: shoot and email to daksh@CodeSportsAi.com / LinkedIn : http://linkedin.com/in/idaksh/
-- ⚡ Fun fact: I'm a content creator | Tech Vlogs on Youtube: http://youtube.com/@TheTheoryOfCode | Blogs on Medium : http://medium.com/@TheTheoryOfCode
+- ⚡ Fun fact: I create contents to validate and verify my learnings as well as to help people around | Tech Vlogs on Youtube: http://youtube.com/@TheTheoryOfCode | Blogs on Medium : http://medium.com/@TheTheoryOfCode
 
 
 ###
