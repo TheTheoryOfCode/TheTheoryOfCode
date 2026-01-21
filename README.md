@@ -14,7 +14,7 @@
   - 📠 ___Map-REST___ : To Drastically reduce the data transfer between REST Endpoints
   - 📝 ___Black Box Logging___ : Generate & Store production logs without incurring hugh processing (CPU) and Storage (Disk) cost
   - 🔠 ___State Machines___ : Build context specific software implementation
-  - 🎹 ___Messaging & Sequence__ : Asych Systems development
+  - 🎹 ___Messaging & Sequence___ : Create Async Systems
 
 ###
 ###
