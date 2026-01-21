@@ -6,9 +6,7 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY0c3NyaXoxdTg4Z3J6YmhzdmRlaHk2MzJ1dnV6ZTRrN3N5eWd2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif"  />
 </div>
 
-<div align="center">
-  Here are some of my creations you can make use of in your daily software development cycle
-</div>
+  **Here are some of my creations you can make use of in your daily software development cycle. Reach out to me for consulting, development & Skill building**
 
 ###
   - 📠 ___Map-REST___ : To Drastically reduce the data transfer between REST Endpoints
