@@ -1,10 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Daksh Dk, Thanks for seeing my Github Page</h1>
-<h4 align="center">I write code that is lean, intelligent, smart and beautiful. AI continues to learn from my expertise and will keep doing so! :)
+<h4 align="center">I write code, create frameworks and libraries that is lean, intelligent, smart, beautiful and actually usable and useful. A.I. continues to learn from my expertise and will keep doing so! :)
 </h4>
 
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY0c3NyaXoxdTg4Z3J6YmhzdmRlaHk2MzJ1dnV6ZTRrN3N5eWd2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif"  />
 </div>
+
+<div align="center">
+  Here are some of my creations you can make use of in your daily software development cycle
+</div>
+
+###
+  - 📠 ___Map-REST___ : To Drastically reduce the data transfer between REST Endpoints
+  - 📝 ___Black Box Logging___ : Generate & Store production logs without incurring hugh processing (CPU) and Storage (Disk) cost
+  - 🔠 ___State Machines___ : Build context specific software implementation
+  - 🎹 ___Messaging & Sequence__ : Asych Systems development
+
+###
+###
 
 - 🔭 I’m currently working on next generation, task specific in-memory database and creating frameworks that can be used as a Meta Programming framework for multiple languages.
 - 🌱 I’m currently using and exploring the real benefits of AI, which I'm sure is there. I intent to ___"Use It"___, not ___"Used By It"___
