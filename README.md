@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Daksh Dk, Thanks for seeing my Github Page</h1>
+<h1 align="center">Hi there 👋, I'm Daksh, Thanks for seeing my Github Page</h1>
 <h4 align="center">I write code, create frameworks and libraries that is lean, intelligent, smart, beautiful and actually usable and useful. A.I. continues to learn from my expertise and will keep doing so! :)
 </h4>
 
