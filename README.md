@@ -9,6 +9,7 @@
   **Here are some of my creations you can make use of in your daily software development cycle. Reach out to me for consulting, development & Skill building**
 
 ###
+  - 📠 ___AI Spec Driven Development___ : Move away from Vibe Coding, Mater and Use Spec Driven Development
   - 📠 ___Map-REST___ : To Drastically reduce the data transfer between REST Endpoints
   - 📝 ___Black Box Logging___ : Generate & Store production logs without incurring hugh processing (CPU) and Storage (Disk) cost
   - 🔠 ___State Machines___ : Build context specific software implementation
